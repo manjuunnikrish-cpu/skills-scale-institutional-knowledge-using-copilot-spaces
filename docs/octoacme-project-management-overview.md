@@ -18,14 +18,24 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Scrum Master / Agile Coach: facilitates agile ceremonies and removes impediments.
+- UX Designer / Product Designer: leads user-centered design and validation.
+- DevOps / SRE / Platform Engineer: manages CI/CD pipelines and operational reliability.
+- Business Analyst: translates business needs into actionable requirements.
+- Engineering Manager / Tech Lead: provides technical leadership and mentors developers.
+- Security / Compliance Representative: ensures security requirements are met and advises on compliance.
+- Customer Support / Customer Success Representative: provides customer feedback and manages release communications.
 - Stakeholders: provide inputs and approvals.
+
+> For full role descriptions, responsibilities, and interaction points, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
-- Risk Register
+- Risk Register / [RAID Log](octoacme-raid-log-template.md)
+- [Role Handoff Checklist](octoacme-role-handoff-checklist.md)
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)

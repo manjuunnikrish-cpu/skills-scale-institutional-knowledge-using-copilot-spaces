@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+> For a ready-to-use template that also covers Assumptions, Issues, and Dependencies, see the [RAID Log Template](octoacme-raid-log-template.md).
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
