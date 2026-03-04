@@ -16,9 +16,11 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Tech Lead / Engineering Lead: provides technical direction and architecture guidance.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- QA / Test Engineers: validate quality, acceptance criteria, and manage test automation.
+- UX / Design Lead: owns user research, design specs, and design system consistency.
+- Stakeholders: provide business context, inputs, and approvals.
 
 ## Key Artifacts
 - Project Charter / One-pager
